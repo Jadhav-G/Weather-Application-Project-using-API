@@ -2,8 +2,10 @@ Python Weather App
 
 A simple desktop weather application built with Python's Tkinter library. It allows users to search for a city and get real-time weather information, including temperature, humidity, wind speed, and more. The application fetches data from the [OpenWeatherMap API](https://openweathermap.org/api).
      
-          
-        ![Image Alt](https://github.com/Jadhav-G/Weather-Application-Project-using-API/blob/e8ba98199c12fa9c6d389f6144d1c6717e0f56bc/Screenshot%202025-09-27%20200540.png)
+ <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fdd7a3e3-7336-4136-bfad-a90e1e73d93b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/08894029-b455-478a-aaee-909b453a950f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/37ef4db4-0627-46c8-a917-975614dad5e1" />
+
 
 
  Features
