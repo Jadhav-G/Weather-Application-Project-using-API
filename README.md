@@ -121,7 +121,7 @@ Code Overview
 ##  Author
 ## Copyright © Ganesh Jadhav
 
-This AI / ML-based Student Dropout Prediction System is designed and developed by Ganesh Jadhav using machine learning models and data analysis techniques.
+This project designed and developed by Ganesh Jadhav .
 
 
 
