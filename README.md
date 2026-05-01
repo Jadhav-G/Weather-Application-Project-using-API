@@ -118,6 +118,10 @@ Code Overview
         6.  Updates the Tkinter labels in the GUI to display the fetched data and the correct weather icon.
       - GUI Setup: The rest of the script is dedicated to building the application's window, frames, labels, buttons, and input fields using Tkinter.
    
+---
+## 🎬 Project Demo Video
 
+https://github.com/user-attachments/assets/a49f2254-9f8f-47c7-bc96-bff618dd7cf1
+---
 
 
