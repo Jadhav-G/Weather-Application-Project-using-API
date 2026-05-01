@@ -118,6 +118,12 @@ Code Overview
         6.  Updates the Tkinter labels in the GUI to display the fetched data and the correct weather icon.
       - GUI Setup: The rest of the script is dedicated to building the application's window, frames, labels, buttons, and input fields using Tkinter.
    
+##  Author
+## Copyright © Ganesh Jadhav
+
+This AI / ML-based Student Dropout Prediction System is designed and developed by Ganesh Jadhav using machine learning models and data analysis techniques.
+
+
 
 ## 🎬 Project Demo Video
   https://github.com/user-attachments/assets/56016463-1cbb-4e04-a6be-8658bc24bc09
